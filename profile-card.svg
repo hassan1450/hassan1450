@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.6" stop-color="#0B1B3A"/>
+      <stop offset="1" stop-color="#0F2A4A"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#FBBF24"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="22"/></filter>
+  </defs>
+
+  <!-- window -->
+  <rect x="2" y="2" width="896" height="316" rx="18" fill="url(#bg)" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="2"/>
+
+  <!-- background glow -->
+  <g filter="url(#soft)" opacity="0.55">
+    <circle r="60" cx="150" cy="190" fill="#1D4ED8">
+      <animate attributeName="cx" values="150;190;150" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="50" cx="780" cy="250" fill="#F59E0B" opacity="0.5">
+      <animate attributeName="cy" values="250;200;250" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- title bar -->
+  <path d="M2 20 a18 18 0 0 1 18 -18 h860 a18 18 0 0 1 18 18 v26 h-896 z" fill="#0B1220" opacity="0.9"/>
+  <circle cx="30" cy="24" r="6" fill="#38BDF8"/>
+  <circle cx="52" cy="24" r="6" fill="#FBBF24"/>
+  <circle cx="74" cy="24" r="6" fill="#64748B"/>
+  <text x="450" y="29" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#7DD3FC" opacity="0.85">hassan@portfolio:~</text>
+
+  <!-- avatar -->
+  <g transform="translate(135,185)">
+    <circle r="78" fill="none" stroke="url(#ring)" stroke-width="2.5" stroke-dasharray="6 10" opacity="0.9">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="64" fill="none" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="2 8" opacity="0.6">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="50" fill="url(#core)" stroke="#38BDF8" stroke-opacity="0.6" stroke-width="2"/>
+    <text y="18" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-size="56" font-weight="700" fill="#E0F2FE" filter="url(#glow)">H</text>
+    <circle r="5" fill="#FBBF24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="78;78" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- terminal text -->
+  <g font-family="'Fira Code', Consolas, monospace" font-size="19">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.4s" fill="freeze"/>
+      <text x="290" y="92"><tspan fill="#FBBF24">$</tspan><tspan fill="#E0F2FE"> whoami</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1s" dur="0.4s" fill="freeze"/>
+      <text x="290" y="128"><tspan fill="#38BDF8">name    </tspan><tspan fill="#64748B">→ </tspan><tspan fill="#E0F2FE" font-weight="700">Hassan</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.4s" fill="freeze"/>
+      <text x="290" y="160"><tspan fill="#38BDF8">role    </tspan><tspan fill="#64748B">→ </tspan><tspan fill="#E0F2FE">BSIT Final-Year Student</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.4s" fill="freeze"/>
+      <text x="290" y="192"><tspan fill="#38BDF8">focus   </tspan><tspan fill="#64748B">→ </tspan><tspan fill="#E0F2FE">Full-Stack Development</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="2.8s" dur="0.4s" fill="freeze"/>
+      <text x="290" y="224"><tspan fill="#38BDF8">stack   </tspan><tspan fill="#64748B">→ </tspan><tspan fill="#E0F2FE">MERN · Python · C++ · OpenGL</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="3.4s" dur="0.4s" fill="freeze"/>
+      <text x="290" y="256"><tspan fill="#38BDF8">status  </tspan><tspan fill="#64748B">→ </tspan><tspan fill="#FBBF24">●</tspan><tspan fill="#E0F2FE"> Open to internships</tspan></text>
+      <circle cx="402" cy="250" r="9" fill="#FBBF24" opacity="0">
+        <animate attributeName="opacity" values="0.5;0;0.5" dur="2s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="6;14;6" dur="2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="4s" dur="0.3s" fill="freeze"/>
+      <text x="290" y="294"><tspan fill="#FBBF24">$</tspan><tspan fill="#E0F2FE"> </tspan></text>
+      <rect x="312" y="278" width="11" height="20" fill="#38BDF8">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
