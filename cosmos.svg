@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#0B1B3A"/>
+      <stop offset="1" stop-color="#0F2A4A"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8">
+        <animate attributeName="stop-color" values="#38BDF8;#FBBF24;#60A5FA;#38BDF8" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#FBBF24">
+        <animate attributeName="stop-color" values="#FBBF24;#60A5FA;#38BDF8;#FBBF24" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <rect width="1000" height="200" rx="16" fill="url(#bg)"/>
+
+  <g filter="url(#blur)" opacity="0.7">
+    <circle r="70" fill="#1D4ED8" cx="200" cy="90">
+      <animate attributeName="cx" values="200;420;200" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="90;130;90" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="60" fill="#0EA5E9" cx="700" cy="110">
+      <animate attributeName="cx" values="700;520;700" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="110;70;110" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="50" fill="#F59E0B" cx="850" cy="80" opacity="0.8">
+      <animate attributeName="cx" values="850;760;850" dur="10s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g fill="#fff">
+    <circle cx="60" cy="30" r="1.6"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="150" r="1.2"><animate attributeName="opacity" values="1;0.1;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="45" r="1.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="380" cy="165" r="1.3"><animate attributeName="opacity" values="1;0.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="470" cy="28" r="1.5"><animate attributeName="opacity" values="0.1;1;0.1" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="610" cy="170" r="1.7"><animate attributeName="opacity" values="1;0.1;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="720" cy="35" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="150" r="1.8"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="930" cy="50" r="1.4"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="960" cy="170" r="1.2"><animate attributeName="opacity" values="1;0.1;1" dur="2.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <ellipse cx="500" cy="100" rx="330" ry="62" fill="none" stroke="#7DD3FC" stroke-opacity="0.3" stroke-dasharray="4 8"/>
+  <circle r="6" fill="#FBBF24" filter="url(#glow)">
+    <animateMotion dur="8s" repeatCount="indefinite" path="M170,100 a330,62 0 1,0 660,0 a330,62 0 1,0 -660,0"/>
+  </circle>
+
+  <text x="500" y="98" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-size="46" font-weight="700" fill="url(#txt)" filter="url(#glow)" letter-spacing="8">
+    &lt;HASSAN /&gt;
+  </text>
+  <text x="500" y="135" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-size="15" fill="#BAE6FD" letter-spacing="4">
+    BUILD · BREAK · LEARN · REPEAT
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </text>
+</svg>
