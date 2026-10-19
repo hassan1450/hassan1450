@@ -182,8 +182,13 @@ A Python web app that classifies URLs as safe or phishing using machine learning
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/hassan1450/hassan1450/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake"/>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/snake-output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/snake-output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/snake-output/github-snake.svg" alt="Snake animation eating contribution graph" />
+  </picture>
+</div>
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,50:1E3A8A,100:F59E0B" width="100%" alt="divider"/>
