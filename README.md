@@ -6,7 +6,9 @@ Theme: Navy / Steel Blue / Cyan / Gold
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=240&color=0:020617,50:1E3A8A,100:0EA5E9&text=HASSAN&fontColor=E0F2FE&fontSize=80&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Creative%20Coder&descSize=18&descColor=FBBF24&descAlignY=64&animation=twinkling" alt="Hassan banner"/>
+<img src="https://raw.githubusercontent.com/hassan1450/hassan1450/main/cosmos.svg" width="100%" alt="Animated cosmos banner"/>
+
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=240&color=0:020617,50:1E3A8A,100:0EA5E9&text=HASSAN&fontColor=E0F2FE&fontSize=80&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Creative%20Coder&descSize=18&descColor=FBBF24&descAlignY=64&animation=twinkling" alt="Hassan banner"/> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&random=false&width=800&height=60&lines=Hello%2C+I'm+Hassan+%F0%9F%91%8B;BSIT+Final-Year+Student+%F0%9F%8E%93;MERN+Stack+Developer+%F0%9F%92%BB;Python+%7C+AI+%7C+Machine+Learning+%F0%9F%A7%A0;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" alt="Animated introduction"/>
 
@@ -31,8 +33,6 @@ Theme: Navy / Steel Blue / Cyan / Gold
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,50:1E3A8A,100:F59E0B" width="100%" alt="divider"/>
 
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/hassan1450/hassan1450/main/cosmos.svg" width="100%" alt="Animated cosmos banner"/>
 
 </div>
 
