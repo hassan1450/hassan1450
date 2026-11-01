@@ -184,9 +184,9 @@ A Python web app that classifies URLs as safe or phishing using machine learning
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/snake-output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/snake-output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/snake-output/github-snake.svg" alt="Snake animation eating contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassan1450/hassan1450/snake-output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassan1450/hassan1450/snake-output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/hassan1450/hassan1450/snake-output/github-snake.svg" alt="Snake animation eating contribution graph" />
   </picture>
 </div>
 <br/><br/>
@@ -225,7 +225,7 @@ I'm always happy to connect with developers, share knowledge and grow through pr
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,55:1E3A8A,100:020617&height=140&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 
-**END OF TRANSMISSION // KEEP BUILDING.** 🚀
+**END OF TRANSMISSION // KEEP BUILDING.** 
 
 Designed by Hassan · Learning through code, one project at a time.
 
