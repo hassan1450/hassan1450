@@ -38,7 +38,7 @@ Theme: Navy / Steel Blue / Cyan / Gold
 
 <br/>
 
-## 🚀 01 // The Developer
+##  01 The Developer
 
 Hi! I'm **Hassan**, a final-year BSIT student who loves building useful software, modern web applications and data-driven solutions.
 
@@ -63,7 +63,7 @@ I enjoy mixing engineering with creativity, from full-stack web development to P
 
 </div>
 
-## 🛠️ 02 // Technology Matrix
+## 02 Technology Matrix
 
 <div align="center">
 
@@ -95,7 +95,7 @@ I enjoy mixing engineering with creativity, from full-stack web development to P
 
 </div>
 
-## 🧪 03 // Selected Projects
+## 03 Selected Projects
 
 *Four different challenges. Four different areas of development.*
 
@@ -169,7 +169,7 @@ A Python web app that classifies URLs as safe or phishing using machine learning
 
 </div>
 
-## 📊 04 // GitHub Telemetry
+## 04 GitHub Telemetry
 
 <div align="center">
 
@@ -195,7 +195,7 @@ A Python web app that classifies URLs as safe or phishing using machine learning
 
 </div>
 
-## 📡 05 // Connect To My Network
+## 05 Connect To My Network
 
 <div align="center">
 
