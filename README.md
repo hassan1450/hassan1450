@@ -1,44 +1,56 @@
+ 
 <!--
-HASSAN — GitHub Profile README
-Owner: hassan1450
+HASSAN AWAN — GitHub Profile README
 Theme: Navy / Steel Blue / Cyan / Gold
 -->
 
 <div align="center">
 
+<!-- ANIMATED BANNER -->
 <img src="https://raw.githubusercontent.com/hassan1450/hassan1450/main/cosmos.svg" width="100%" alt="Animated cosmos banner"/>
-
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=240&color=0:020617,50:1E3A8A,100:0EA5E9&text=HASSAN&fontColor=E0F2FE&fontSize=80&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Creative%20Coder&descSize=18&descColor=FBBF24&descAlignY=64&animation=twinkling" alt="Hassan banner"/> -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&random=false&width=800&height=60&lines=Hello%2C+I'm+Hassan+%F0%9F%91%8B;BSIT+Final-Year+Student+%F0%9F%8E%93;MERN+Stack+Developer+%F0%9F%92%BB;Python+%7C+AI+%7C+Machine+Learning+%F0%9F%A7%A0;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" alt="Animated introduction"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Software+Developer+%7C+Problem+Solver;Full-Stack+Web+Developer;MERN+Stack+%7C+Mobile+App+Development;Exploring+AI+%26+Machine+Learning" alt="Animated professional introduction"/>
+
+<p>
+Final-Year Information Technology Student at <b>Bahria University</b>, Karachi, Pakistan.
+<br/>
+Building meaningful digital experiences through clean code, creative problem-solving, and continuous learning.
+</p>
+
+<br/>
+
+<!-- SOCIAL LINKS -->
 <a href="https://github.com/hassan1450">
-<img src="https://img.shields.io/badge/GitHub-hassan1450-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/hassan-awan-9a0415386/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=nuhf1890@gmail.com&amp;su=Hello%20Hassan">
-<img src="https://img.shields.io/badge/Gmail-nuhf1890%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=FBBF24" alt="Email Hassan on Gmail"/>
+&nbsp;
+<a href="mailto:nuhf1890@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=hassan1450&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS" alt="Profile views"/>
+<sub>📍 Karachi, Pakistan &nbsp; | &nbsp; 🎓 Bahria University &nbsp; | &nbsp; 💻 Software Development</sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,50:1E3A8A,100:F59E0B" width="100%" alt="divider"/>
+<img src="https://komarev.com/ghpvc/?username=hassan1450&style=flat-square&color=0EA5E9&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 <br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,50:1E3A8A,100:F59E0B" width="100%" alt="Divider"/>
 
 </div>
 
 <br/>
 
-##  01 The Developer
+## 01 The Developer
 
 Hi! I'm **Hassan**, a final-year BSIT student who loves building useful software, modern web applications and data-driven solutions.
 
@@ -49,7 +61,7 @@ I enjoy mixing engineering with creativity, from full-stack web development to P
 - 🧠 **Exploring:** Artificial Intelligence, Machine Learning, data analytics
 - 🌌 **Creative computing:** C++, OpenGL and 3D environments
 - 🌱 **Mindset:** Learn by building, experiment, improve, repeat
-- 🤝 **Open to:** collaboration, internships and meaningful projects
+- 🤝 **Open to:** Collaboration, internships and meaningful projects
 
 <div align="center">
 
@@ -59,7 +71,7 @@ I enjoy mixing engineering with creativity, from full-stack web development to P
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,50:1E3A8A,100:F59E0B" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,50:1E3A8A,100:F59E0B" width="100%" alt="Divider"/>
 
 </div>
 
@@ -85,13 +97,13 @@ I enjoy mixing engineering with creativity, from full-stack web development to P
 
 <br/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-1D4ED8?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-0284C7?style=for-the-badge&logo=probot&logoColor=white" alt="AI"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-1D4ED8?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-0284C7?style=for-the-badge&logo=probot&logoColor=white" alt="Artificial Intelligence"/>
 <img src="https://img.shields.io/badge/OpenGL-Computer%20Graphics-B45309?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,50:1E3A8A,100:F59E0B" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,50:1E3A8A,100:F59E0B" width="100%" alt="Divider"/>
 
 </div>
 
@@ -165,7 +177,7 @@ A Python web app that classifies URLs as safe or phishing using machine learning
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,50:1E3A8A,100:F59E0B" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,50:1E3A8A,100:F59E0B" width="100%" alt="Divider"/>
 
 </div>
 
@@ -174,6 +186,7 @@ A Python web app that classifies URLs as safe or phishing using machine learning
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassan1450&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=FBBF24&text_color=E0F2FE&rank_icon=github" alt="GitHub stats"/>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan1450&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=E0F2FE" alt="Top languages"/>
 
 <br/><br/>
@@ -182,16 +195,16 @@ A Python web app that classifies URLs as safe or phishing using machine learning
 
 <br/><br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassan1450/hassan1450/snake-output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassan1450/hassan1450/snake-output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/hassan1450/hassan1450/snake-output/github-snake.svg" alt="Snake animation eating contribution graph" />
-  </picture>
-</div>
+<!-- CONTRIBUTION SNAKE -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassan1450/hassan1450/snake-output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassan1450/hassan1450/snake-output/github-snake.svg"/>
+<img src="https://raw.githubusercontent.com/hassan1450/hassan1450/snake-output/github-snake.svg" alt="Snake animation eating contribution graph"/>
+</picture>
+
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,50:1E3A8A,100:F59E0B" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,50:1E3A8A,100:F59E0B" width="100%" alt="Divider"/>
 
 </div>
 
@@ -206,10 +219,12 @@ I'm always happy to connect with developers, share knowledge and grow through pr
 <a href="https://github.com/hassan1450">
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/hassan-awan-9a0415386/">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn"/>
 </a>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=nuhf1890@gmail.com&amp;su=Hello%20Hassan">
+&nbsp;
+<a href="mailto:nuhf1890@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Say%20Hello-0B1220?style=for-the-badge&logo=gmail&logoColor=FBBF24" alt="Gmail"/>
 </a>
 
@@ -217,16 +232,16 @@ I'm always happy to connect with developers, share knowledge and grow through pr
 
 📧 **nuhf1890@gmail.com**
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=FBBF24&center=true&vCenter=true&width=700&lines=%22First+solve+the+problem.+Then%2C+write+the+code.%22;%22Learn+by+building.+Improve+by+shipping.%22" alt="Quotes"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=FBBF24&center=true&vCenter=true&width=700&lines=%22First+solve+the+problem.+Then%2C+write+the+code.%22;%22Learn+by+building.+Improve+by+shipping.%22" alt="Animated quotes"/>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,55:1E3A8A,100:020617&height=140&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 
-**END OF TRANSMISSION // KEEP BUILDING.** 
+**END OF TRANSMISSION // KEEP BUILDING.**
 
-Designed by Hassan · Learning through code, one project at a time.
+<sub>Designed by Hassan · Learning through code, one project at a time.</sub>
 
 </div>
