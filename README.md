@@ -240,8 +240,7 @@ I'm always happy to connect with developers, share knowledge and grow through pr
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,55:1E3A8A,100:020617&height=140&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 
-**END OF TRANSMISSION // KEEP BUILDING.**
 
-<sub>Designed by Hassan · Learning through code, one project at a time.</sub>
+<h1><center><sub>Designed by Hassan·</sub></center></h1>
 
 </div>
